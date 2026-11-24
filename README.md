@@ -69,6 +69,8 @@ Claude files the win, the feedback, the decision and the check-in, then tells yo
 
 The weekly drop is the easiest habit to keep. Most of the record can come from it.
 
+For setup and reviews, use one of the larger Claude models. The smallest one files daily entries, but it can miss a pattern that started last year and makes more mistakes on reviews. Always read a review before you send it.
+
 If you go quiet for months, start again from today. There is nothing to catch up on.
 
 ## What's in the folder

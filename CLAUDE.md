@@ -15,7 +15,7 @@ Files and folders below that don't exist yet are created the first time they are
 | `profile.md` | What stays true about the user: strengths, working style, what drains them, confirmed patterns. |
 | `foundation/` | `career_intent.md`, `values_and_constraints.md`, `role_expectations.md` |
 | `goals/` | `annual_goals.md` (with an Unplanned work table), `receipts.md` |
-| `capture/` | One log per kind per year, such as `wins_2026.md`. Names and formats: `capture/README.md` |
+| `capture/` | Every log: one per kind per year, such as `capture/wins_2026.md`, plus `capture/people.md`. Names and formats: `capture/README.md` |
 | `synthesis/patterns.md` | Patterns, each citing its dated entries |
 | `reviews/` | Meeting prep and review drafts, named `YYYY-MM-DD_what.md` |
 | `uploads/` | Documents the user hands over. See `uploads/README.md` |
@@ -38,12 +38,12 @@ This is the easiest habit to keep: the user pastes or drops in a weekly summary,
 ## Wins, goals and receipts
 
 - A win says what they did, why it mattered, who benefited and the evidence.
-- If a win matches a goal, name the goal. If it matches none, add a row to Unplanned work in `goals/annual_goals.md`. Unplanned work gets lost at review time.
+- If a win matches a goal, name the goal. Goals count only for wins inside their review year; if that year has ended, say there are no current goals and offer `/setup`. If it matches none, add a row to Unplanned work in `goals/annual_goals.md`. Unplanned work gets lost at review time.
 - If `foundation/role_expectations.md` lists the skills their job is judged on, add a line to `goals/receipts.md`: date, win, skill, scope. Scope is the widest group the evidence shows using or relying on the work: self, own team, another team, org, company. Never round it up. If the skill match is your reading, say so.
 
 ## What to notice
 
-After saving, compare the new entry with `foundation/`, `goals/` and earlier entries, and speak up about:
+After saving, compare the new entry with `foundation/`, `goals/` and earlier entries. Past years count: for feedback, read every `capture/feedback_*.md` file before you reply, and do the same for the other logs. Speak up about:
 
 - **A pattern:** three dated entries on the same theme. Cite all three and add it to `synthesis/patterns.md`. Two is not a pattern yet.
 - **A conflict:** a decision or commitment that pulls against something in `foundation/`. Quote both and ask whether it is a choice or drift.
@@ -54,7 +54,7 @@ Say when there isn't enough to go on. The logs don't record hours, so don't calc
 
 ## Numbers
 
-Keep each running total in one place and point to it from everywhere else. Recount from the entries before quoting a total. Once a review has been sent, leave its figures as they were.
+Keep each running total in one place and point to it from everywhere else. Recount from the entries before quoting a total, and list the dates you counted beside any total you write. Once a review has been sent, leave its figures as they were.
 
 ## Outputs
 

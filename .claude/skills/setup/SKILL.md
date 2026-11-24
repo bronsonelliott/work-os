@@ -59,8 +59,8 @@ Writes `goals/annual_goals.md`: the review year dates, official goals with succe
 8. What would make it work better?
 9. How well do you understand what they expect, 1 to 10?
 
-Writes `foundation/role_expectations.md` (the written rubric word for word if there is one, and what they believe really counts) and the manager's entry in `capture/people.md`.
+Writes `foundation/role_expectations.md` (the written rubric word for word if there is one, and what they believe really counts) and the manager's entry in `capture/people.md`. Answers about the manager are the user's view: write "the user thinks Dana would say", never as something the manager said.
 
 ## Finish
 
-After any part, create or update `profile.md` (identity, what energizes and drains them, limits) and `current_state.md`. Then say in two lines what they can do next: tell you things as they happen, or drop in a weekly summary.
+After any part, create or update `profile.md` (identity, what energizes and drains them, limits) and `current_state.md`. A hope is written as a hope, not as how they are known. If two answers conflict, list them as an open question and keep both out of the settled facts. Then say in two lines what they can do next: tell you things as they happen, or drop in a weekly summary.
