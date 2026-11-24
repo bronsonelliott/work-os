@@ -47,19 +47,14 @@ Show it before saving to `reviews/YYYY-MM-DD_kind.md`, dated the day you write i
 - **Mid-year and year-end:** summary; each goal with its evidence and an honest status; unplanned work; wins by impact; skills shown, using `goals/receipts.md` with scope as recorded; feedback themes; what fell short; next focus.
 - **Across years:** what grew, what keeps coming back, what closed.
 
-A goal with no evidence is "no evidence on record", not "behind" or "not started". Cite the dated entry behind each claim. Give each figure the strength the record gives it: "reported by the team lead" is neither measured nor an estimate. Only the user can call something a deliberate tradeoff; until they do, the conflict is open.
+A goal with no evidence is "no evidence on record", not "behind" or "not started". Cite the dated entry behind each claim. Give each figure the strength the record gives it: "reported by the team lead" is neither measured nor an estimate. A conflict stays open until the user settles it.
 
 ### A version to send
 
-Only when asked, as a separate file ending `_to_send.md`. Before saving it, check every line against these rules:
+Only when asked, as a separate file ending `_to_send.md`. Follow "Anything other people will see" in `CLAUDE.md`, and:
 
-- Anything the record marks confidential is left out completely, including that it happened, who asked for it and any skill it showed.
-- No colleagues' names; use a role or team. No citations, energy scores, candid notes, private goals or comments about the manager.
 - Only entries dated inside the period. Later feedback or wins don't count, even if they help.
-- No action, plan or change the record or interview doesn't show. If feedback has no action recorded, report the feedback and stop there.
 - If an earlier review got something wrong, tell the user. Don't correct it in this version.
-
-Then list in the chat what you left out and why, so they can overrule you.
 
 ## 4. Update the record
 

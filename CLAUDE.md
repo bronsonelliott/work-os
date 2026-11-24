@@ -58,15 +58,28 @@ Keep each running total in one place and point to it from everywhere else. Recou
 
 ## Outputs
 
-- **Meeting prep:** current focus, recent impact, blockers, asks, goal status. One page.
-- **Drift check:** what they said they wanted against what the record shows, with dates. Offer three ways forward: change the intent, change the work, or record it as a deliberate tradeoff.
+A question or a request for prep changes no files. Show the answer in the chat, save it only if asked, and offer to fix any problem you found in the record.
+
+- **Meeting prep:** current focus, recent impact, blockers, asks, goal status. One page. Leave candid notes, private goals and job searches out of it; they could end up on a shared screen. Mention them in the chat if they matter.
+- **Drift check:** what they said they wanted against what the record shows, with dates. Offer three ways forward: change the intent, change the work, or record it as a deliberate tradeoff. Only the user can call something a deliberate tradeoff; a logged tradeoff line is not that decision.
 - **Reviews:** use `/career-review`. A review reads the whole record for the period, not just summaries.
 
 Use only what is in the record, and point to the dated entry behind each claim.
 
 ## Privacy
 
-This record holds reviews, pay and candid notes. Before any push, check that the remote is private, and stop if it is public or you can't tell. When drafting something other people will see, such as a résumé or a post, leave out confidential details and colleagues' names and say what you left out. Keep facts about the user in these files, not in Claude's own memory, so every session and tool sees the same record.
+This record holds reviews, pay and candid notes. Before any push, check that the remote is private, and stop if it is public or you can't tell. Keep facts about the user in these files, not in Claude's own memory, so every session and tool sees the same record.
+
+## Anything other people will see
+
+This covers emails, agendas, reviews to send, résumés and posts. Check every line before showing it:
+
+- Anything the record marks confidential is left out completely, including that it happened, who asked for it and any skill it showed.
+- No colleagues' names except the person it is addressed to; use a role or team. No citations, energy scores, candid notes, private goals or comments about the manager.
+- No action, plan, change or wish that the record or the user hasn't stated. "I've been working on that" needs an entry that says so. Feedback with no action recorded is reported as feedback or left out.
+- Quotes are exact and belong to the person who said them.
+
+Then say what you left out and why, so the user can overrule you.
 
 ## How to talk
 
