@@ -32,5 +32,6 @@ Temporary Items
 # Claude Code plans (user-specific planning artifacts)
 /.claude/plans/
 
-# User-specific data (keep template files, ignore filled-in personal data if any)
-# Note: All current files are templates and safe to commit
+# PRIVACY: nothing here hides your career data from git.
+# Your logs, reviews and feedback are tracked so you have history and a backup.
+# Keep your copy of this repo PRIVATE. See "Keep it private" in README.md.

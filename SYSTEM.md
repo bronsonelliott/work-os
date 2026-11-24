@@ -62,7 +62,7 @@ Update these when:
 - User completes quarterly_reflection → Potential updates to role_expectations
 
 Files:
-- `foundation/career_intent_FY26.md` - What optimizing for this year
+- `foundation/career_intent.md` - What optimizing for this year
 - `foundation/values_and_constraints.md` - Core values, non-negotiables, tradeoffs
 - `foundation/role_expectations.md` - Official vs actual evaluation criteria
 - `foundation/career_target_3yr.md` - 3-year roadmap with milestones
@@ -99,7 +99,7 @@ These are never manually edited. You generate them from capture documents.
 
 Write to them when:
 - Quarterly synthesis triggered → Update synthesis/pattern_recognition.md
-- Upload processed → Update synthesis/pattern_summary.md
+- Upload processed → Update uploads/pattern_summary.md
 - Annual synthesis triggered → Update synthesis/year_at_a_glance.md
 
 Files:
@@ -136,7 +136,7 @@ Files:
 These are often auto-generated from interviews and captures.
 
 Files:
-- `goals/annual_goals_FY26.md` - Declared + shadow goals (generated from goal_setting_interview)
+- `goals/annual_goals.md` - Declared + shadow goals (generated from goal_setting_interview)
 - `goals/quarterly_focus.md` - Current quarter priorities (updated quarterly)
 - `goals/tracking.md` - Goal progress (you update this when running mid/year-end reviews)
 - `reviews/monthly_1on1_prep.md` - Auto-generated from recent work_log + wins_ledger

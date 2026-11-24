@@ -50,7 +50,7 @@ You can answer conversationally. Claude synthesizes into the outputs.
 
 ### 1. `goals/quarterly_focus.md` (Next Quarter Section)
 ```markdown
-## Q[X] FY26 Focus
+## Q[X] [This Year] Focus
 
 **Primary Focus:** [your one focus answer]
 

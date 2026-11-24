@@ -62,8 +62,8 @@ What's undervalued in my actual role:
 
 ## Related Documents
 
-- `foundation/career_intent_FY26.md` - What I'm optimizing for
-- `goals/annual_goals_FY26.md` - Goals aligned to role
+- `foundation/career_intent.md` - What I'm optimizing for
+- `goals/annual_goals.md` - Goals aligned to role
 - `memory.md` - Patterns in how role is perceived
 
 ---

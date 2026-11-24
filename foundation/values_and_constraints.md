@@ -65,7 +65,7 @@ These are absolute:
 
 ## Related Documents
 
-- `foundation/career_intent_FY26.md` - What I'm optimizing for
+- `foundation/career_intent.md` - What I'm optimizing for
 - `foundation/principles.md` - Work philosophy
 - `memory.md` - How these values show up in practice
 

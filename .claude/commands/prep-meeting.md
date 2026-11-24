@@ -18,8 +18,8 @@ Quick 5-minute automated generation of meeting prep based on your recent work. N
 Claude automatically:
 1. Reads your most recent `capture/work_log.md` entry
 2. Reads recent wins from `capture/wins_ledger.md`
-3. Reads your current goals from `goals/annual_goals_FY26.md` and `goals/quarterly_focus.md`
-4. Reads recent feedback from `capture/feedback_ledger.md`
+3. Reads your current goals from `goals/annual_goals.md` and `goals/quarterly_focus.md`
+4. Reads recent feedback from `capture/feedback_log.md`
 5. Synthesizes this into a clean meeting prep doc
 6. Saves to `reviews/monthly_1on1_prep.md`
 7. Shows you the output for review/editing

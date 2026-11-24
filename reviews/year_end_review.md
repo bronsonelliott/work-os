@@ -1,4 +1,4 @@
-# Year-End Review - FY26
+# Year-End Review - [This Year]
 
 *Auto-generated from annual logs or year_in_review_interview*
 *Used for: Official annual reviews, self-assessment, promotion packets*
@@ -55,5 +55,5 @@
 
 ## Next Year Focus
 
-[Recommendations for FY27]
+[Recommendations for [Next Year]]
 

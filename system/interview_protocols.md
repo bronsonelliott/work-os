@@ -72,7 +72,7 @@ After capturing all responses, populate these files:
    - My Non-Negotiables: from Q10
    - Constraints I'm Working Within: from Q11
 
-2. **foundation/career_intent_FY26.md** (the Why section)
+2. **foundation/career_intent.md** (the Why section)
    - What I'm Optimizing For: from Q1, Q2, Q4
    - How I Want to Be Remembered: from Q4, Q5
 
@@ -124,13 +124,13 @@ After capturing all responses, populate these files:
 
 **Synthesis Targets:**
 
-1. **goals/annual_goals_FY26.md**
+1. **goals/annual_goals.md**
    - Official Goals: from Q1, Q3, Q4
    - Shadow Goals (what user really cares about): from Q5
    - What Success Looks Like: from Q3, Q9
    - What Failure Looks Like: from Q10
 
-2. **foundation/career_intent_FY26.md**
+2. **foundation/career_intent.md**
    - What I'm Optimizing For This Year: from Q5 (shadow goals)
    - Explicit Tradeoffs: from Q7
    - Constraints: from Q8
@@ -140,11 +140,11 @@ After capturing all responses, populate these files:
    - Note which are official vs shadow
 
 4. **memory.md**
-   - Add: "FY26 Priorities: [key themes]"
+   - Add: "[This Year] Priorities: [key themes]"
    - Add: "Shadow Goals: [what user really wants]"
 
 **Post-Interview:**
-- Show: "Here are your FY26 goals—declared and shadow."
+- Show: "Here are your [This Year] goals—declared and shadow."
 - Ask: "Want to edit?"
 - Apply edits
 - Save

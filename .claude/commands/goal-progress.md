@@ -14,7 +14,7 @@ A quick 5-minute automated check of your progress against stated annual and quar
 ## What This Does
 
 Claude automatically reads:
-1. `goals/annual_goals_FY26.md` - Your declared goals for the year
+1. `goals/annual_goals.md` - Your declared goals for the year
 2. `goals/quarterly_focus.md` - Your current quarter focus
 3. `capture/work_log.md` - Your actual work (YTD or recent months)
 4. `capture/wins_ledger.md` - Your logged wins
@@ -32,7 +32,7 @@ Claude generates:
 ```markdown
 # Goal Progress Check - [Date]
 
-## Annual Goals (FY26)
+## Annual Goals ([This Year])
 
 ### Goal 1: [Goal Title]
 **Status:** [On Track / Behind / Ahead / Unclear]
@@ -96,7 +96,7 @@ Based on the analysis, Claude offers one of three paths:
 ### 3. **Refocus** (Priorities have shifted)
 - Which goals no longer matter
 - Which new priorities have emerged
-- Whether to update `goals/annual_goals_FY26.md`
+- Whether to update `goals/annual_goals.md`
 
 **When:** Your actual work shows different priorities than stated goals.
 
@@ -119,7 +119,7 @@ Claude intelligently:
 
 ## If Data is Missing
 
-- **No annual goals:** "You don't have annual goals set. Want to run /goal-setting first?"
+- **No annual goals:** "You don't have annual goals set. Want to run the goal setting interview first?"
 - **No work logs:** "Your work_log.md is empty. Can't assess progress without work data. Want to run /monthly-log?"
 - **Stale work logs:** "Your most recent work log is from [date]. Progress check will be based on old data."
 
@@ -129,7 +129,7 @@ Claude intelligently:
 - Be honest about "Behind" status - it's data, not judgment
 - If a goal has zero evidence in logs, mark as "Unclear" not "Behind"
 - Account for time of year in assessment (Q1 vs Q4)
-- Save analysis to `analysis/goal_progress_[date].md` for tracking over time
+- Save analysis to `synthesis/goal_progress_[date].md` for tracking over time
 - Always offer one of the three recommendations
 
 ## After Analysis

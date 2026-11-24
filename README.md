@@ -45,6 +45,15 @@ Claude automatically:
 - Synthesizes quarterly and annually
 - Prepares you for 1:1s and reviews
 
+## Keep it private
+
+This system holds performance reviews, feedback, pay and your own candid notes. Your copy must be private.
+
+- On GitHub, use **Use this template > Create a new repository** and choose **Private**.
+- Don't fork it. A fork of a public repository is always public.
+- If you don't need a copy on GitHub, download the ZIP and keep the folder on your computer.
+- Claude reads these files to help you, so their content is sent to Anthropic. Check your employer's rules before you store work information in a personal account.
+
 ## Getting Started
 
 See [QUICK_START.md](QUICK_START.md) for the 5-minute setup guide.
@@ -95,3 +104,7 @@ Just ask Claude:
 - "Help me restart"
 
 The system works by talking to it. Start with QUICK_START.md and go from there.
+
+## License
+
+MIT. See [LICENSE](LICENSE).

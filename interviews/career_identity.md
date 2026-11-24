@@ -6,6 +6,6 @@ See system/interview_protocols.md for the complete interview flow and synthesis 
 
 When completed, Claude populates:
 - foundation/values_and_constraints.md
-- foundation/career_intent_FY26.md
+- foundation/career_intent.md
 - foundation/principles.md
 - memory.md

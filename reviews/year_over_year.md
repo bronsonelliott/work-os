@@ -17,37 +17,37 @@ Compare this year to past years to identify:
 
 ## Year Comparison
 
-### FY26 vs FY25
+### [This Year] vs [Last Year]
 
 **Role/Title:**
-- FY25: [Role]
-- FY26: [Role]
+- [Last Year]: [Role]
+- [This Year]: [Role]
 - Change: [Promoted / Same / Different company]
 
 **Compensation:**
-- FY25: $[X]k total
-- FY26: $[X]k total
+- [Last Year]: $[X]k total
+- [This Year]: $[X]k total
 - Change: [+/- %]
 
 **Scope:**
-- FY25: [Team-level / Project-level]
-- FY26: [Company-wide / Multi-team]
+- [Last Year]: [Team-level / Project-level]
+- [This Year]: [Company-wide / Multi-team]
 - Change: [Expansion / Same / Reduction]
 
 **Key Wins Pattern:**
-- FY25: [Type of wins - e.g., execution-focused]
-- FY26: [Type of wins - e.g., leadership-focused]
+- [Last Year]: [Type of wins - e.g., execution-focused]
+- [This Year]: [Type of wins - e.g., leadership-focused]
 - Shift: [Description of evolution]
 
 **Feedback Themes:**
-- FY25: [Recurring themes]
-- FY26: [Recurring themes]
+- [Last Year]: [Recurring themes]
+- [This Year]: [Recurring themes]
 - Progress: [What improved]
 - Persistent: [What's still mentioned]
 
 ---
 
-## Multi-Year Trajectory (FY24-FY26)
+## Multi-Year Trajectory ([Two Years Ago] to [This Year])
 
 **Career Progression:**
 [Year-by-year title/level changes]
@@ -56,20 +56,20 @@ Compare this year to past years to identify:
 [Year-by-year total comp trend]
 
 **Skills Evolution:**
-- Started strong at: [Skills FY24]
-- Developed: [New skills FY25-26]
+- Started strong at: [Skills [Two Years Ago]]
+- Developed: [New skills [Last Year] to [This Year]]
 - Still building: [Skills in progress]
 
 **Relationship Capital:**
-- FY24: [Sponsor/ally count and types]
-- FY25: [Changes]
-- FY26: [Current state]
+- [Two Years Ago]: [Sponsor/ally count and types]
+- [Last Year]: [Changes]
+- [This Year]: [Current state]
 - Trend: [Growing / Stable / Declining]
 
 **Impact Level (using Impact Ladder):**
-- FY24: Mostly Level [X]
-- FY25: Mostly Level [X]
-- FY26: Mostly Level [X]
+- [Two Years Ago]: Mostly Level [X]
+- [Last Year]: Mostly Level [X]
+- [This Year]: Mostly Level [X]
 - Progression: [Assessment of scope growth]
 
 ---

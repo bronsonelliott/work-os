@@ -40,7 +40,7 @@ This is a **three-layer system**:
 **Essential reading before any operation:**
 
 - `SYSTEM.md` - Your complete operating manual (how Claude operates this system)
-- `system/workflows.md` - Detailed execution playbooks for all 40+ workflows
+- `system/workflows.md` - Detailed execution playbooks for every workflow
 - `system/cascading_updates.md` - Rules for keeping files in sync automatically
 - `system/synthesis_engine.md` - Pattern recognition logic and thresholds
 - `COMMANDS.md` - Complete reference of user interaction types
@@ -48,7 +48,7 @@ This is a **three-layer system**:
 ### Data Flow
 
 **Foundation Layer** (User's north star):
-- `foundation/career_intent_FY26.md` - What user optimizes for this year
+- `foundation/career_intent.md` - What user optimizes for this year
 - `foundation/values_and_constraints.md` - Core values, non-negotiables
 - `foundation/role_expectations.md` - Official vs actual evaluation criteria
 - `foundation/career_target_3yr.md` - 3-year career roadmap
@@ -66,7 +66,7 @@ This is a **three-layer system**:
 - `synthesis/year_at_a_glance.md` - Annual narrative
 
 **Goals & Reviews** (Generated from interviews and captures):
-- `goals/annual_goals_FY26.md` - Declared + shadow goals
+- `goals/annual_goals.md` - Declared + shadow goals
 - `reviews/monthly_1on1_prep.md` - Auto-generated from recent logs
 - `reviews/mid_year_review.md` - Jan-June self-assessment
 - `reviews/year_end_review.md` - Annual review

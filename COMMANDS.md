@@ -115,7 +115,7 @@ These conduct structured interviews that populate your foundation documents.
 What happens:
 - Claude asks 12 questions about who you are professionally
 - You answer conversationally
-- Claude populates foundation/values_and_constraints.md, foundation/career_intent_FY26.md, foundation/principles.md
+- Claude populates foundation/values_and_constraints.md, foundation/career_intent.md, foundation/principles.md
 - Claude shows you what was generated
 - You can edit before Claude saves
 
@@ -131,13 +131,13 @@ What happens:
 What happens:
 - Claude asks 10 questions about official goals, shadow goals, success definition, tradeoffs
 - You answer
-- Claude populates goals/annual_goals_FY26.md, foundation/career_intent_FY26.md, goals/quarterly_focus.md (Q1)
+- Claude populates goals/annual_goals.md, foundation/career_intent.md, goals/quarterly_focus.md (Q1)
 - Claude shows output
 - You can edit
 
 **Good for:** Starting year, resetting mid-year if goals changed
 
-**Output:** FY26 goals (declared + shadow) + Q1 focus
+**Output:** [This Year] goals (declared + shadow) + Q1 focus
 
 ---
 
@@ -287,7 +287,7 @@ What happens:
 **Say:** "Am I on track for my goals?" / "Goal progress?" / "How am I doing on goals?"
 
 What happens:
-- Claude reads goals/annual_goals_FY26.md and your work_logs
+- Claude reads goals/annual_goals.md and your work_logs
 - Claude assesses progress on each goal
 - Claude notes what's on track, what's behind, what's ahead
 - Claude offers: accelerate, adjust expectations, or refocus

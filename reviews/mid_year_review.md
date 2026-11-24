@@ -1,4 +1,4 @@
-# Mid-Year Review - FY26
+# Mid-Year Review - [This Year]
 
 *Auto-generated from Jan-Jun logs*
 *Used for: Official mid-year reviews, mid-year self-assessment*

@@ -3,7 +3,7 @@ argument-hint: [feedback description]
 description: Log feedback to your feedback ledger with source and pattern tracking
 ---
 
-Log feedback to `capture/feedback_ledger.md`.
+Log feedback to `capture/feedback_log.md`.
 
 ## If Feedback Provided as Argument
 
@@ -28,7 +28,7 @@ Ask these follow-up questions conversationally:
 
 ## Format and Append Entry
 
-Create this exact format and **append to the END** of `capture/feedback_ledger.md`:
+Create this exact format and **append to the END** of `capture/feedback_log.md`:
 
 ```
 ## [YYYY-MM-DD] - [Feedback summary]

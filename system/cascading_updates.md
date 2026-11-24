@@ -92,7 +92,7 @@ When one file updates, you automatically check and apply cascading updates to re
   - Flag: "This is the third time you've gotten feedback about [X]. Worth discussing?"
 
 **Career Intent Contradiction Check:**
-- Read `foundation/career_intent_FY26.md` for stated strengths
+- Read `foundation/career_intent.md` for stated strengths
 - If feedback contradicts stated strengths:
   - Add to `synthesis/pattern_recognition.md` under "Blind Spots"
   - Flag: "Your manager sees [X] differently than you do. Want to discuss?"
@@ -204,7 +204,7 @@ When one file updates, you automatically check and apply cascading updates to re
 - Suggest: "Want to upload any past performance reviews for pattern extraction?"
 
 **Goal Achievement Assessment:**
-- Review FY26 goals against actual year
+- Review [This Year] goals against actual year
 - Generate summary of achievement
 - Note what exceeded, what missed, why
 
@@ -274,7 +274,7 @@ When one file updates, you automatically check and apply cascading updates to re
 **File Cross-Reference Updates:**
 - Review all files that reference updated foundation documents
 - Ensure consistency across system
-- Example: If career_intent updated in interview, ensure goals/annual_goals_FY26.md still aligns
+- Example: If career_intent updated in interview, ensure goals/annual_goals.md still aligns
 
 **Pattern Checks:**
 - Interview responses often reveal patterns

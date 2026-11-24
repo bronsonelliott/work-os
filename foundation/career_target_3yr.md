@@ -118,8 +118,8 @@ Scope proof:
 
 ## Related Documents
 
-- `goals/annual_goals_FY26.md` - Goals that ladder up to 3-year target
-- `foundation/career_intent_FY26.md` - This year's intent
+- `goals/annual_goals.md` - Goals that ladder up to 3-year target
+- `foundation/career_intent.md` - This year's intent
 - `memory.md` - Career progression insights
 
 ---

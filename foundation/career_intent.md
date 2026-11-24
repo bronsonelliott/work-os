@@ -1,4 +1,4 @@
-# Career Intent - FY26
+# Career Intent - [This Year]
 
 *Last updated: [Auto-populated from interviews]*
 *Sources: Career Identity Interview, Goal-Setting Interview, Manager Relationship Interview*
@@ -14,7 +14,7 @@
 
 ---
 
-## Definition of a Successful FY26
+## Definition of a Successful [This Year]
 
 [Populated from goal_setting_interview Q9 - success definition]
 
@@ -86,7 +86,7 @@ How to flag drift:
 
 - `foundation/values_and_constraints.md` - Core values and non-negotiables
 - `foundation/role_expectations.md` - Official vs actual expectations
-- `goals/annual_goals_FY26.md` - Declared and shadow goals
+- `goals/annual_goals.md` - Declared and shadow goals
 - `goals/quarterly_focus.md` - Q1 focus (derived from these goals)
 - `memory.md` - Accumulated career insights
 

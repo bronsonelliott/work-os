@@ -1,4 +1,4 @@
-# Year at a Glance - FY26
+# Year at a Glance - [This Year]
 
 *Annual narrative summary*
 *Generated from year_in_review_interview or annual synthesis*

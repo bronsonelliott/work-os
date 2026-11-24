@@ -210,7 +210,7 @@ These workflows capture user input through conversation and write structured ent
 
 7. Execute cascading updates:
    - Check for recurring themes (same feedback 3+ times)
-   - Check against `foundation/career_intent_FY26.md` → Flag if contradicts stated strengths
+   - Check against `foundation/career_intent.md` → Flag if contradicts stated strengths
    - If no action_taken yet, 30 days later: Nudge "You logged feedback about [X] but no action. Want to address or consciously defer?"
    - Update memory.md if recurring theme emerges
 
@@ -297,7 +297,7 @@ These workflows conduct structured interviews, capture responses, and synthesize
 
 5. Synthesize responses into target documents:
    - `foundation/values_and_constraints.md` → Fill sections: Core Values, Lines I Will Not Cross, What "Enough" Looks Like
-   - `foundation/career_intent_FY26.md` → Fill sections: What I Am Optimizing For, Explicit Tradeoffs, Constraints
+   - `foundation/career_intent.md` → Fill sections: What I Am Optimizing For, Explicit Tradeoffs, Constraints
    - `foundation/principles.md` → Fill sections: How I Define Success, My Relationship With Work
    - `memory.md` → Add key insights about career identity
 
@@ -345,14 +345,14 @@ These workflows conduct structured interviews, capture responses, and synthesize
 4. Capture all responses
 
 5. Synthesize into target documents:
-   - `goals/annual_goals_FY26.md` → Fill: Declared Goals, Shadow Goals, Success Definition
-   - `foundation/career_intent_FY26.md` → Fill: Career Intent, Tradeoffs, Constraints
+   - `goals/annual_goals.md` → Fill: Declared Goals, Shadow Goals, Success Definition
+   - `foundation/career_intent.md` → Fill: Career Intent, Tradeoffs, Constraints
    - `goals/quarterly_focus.md` (Q1) → Derive top 3 priorities from annual goals
    - `memory.md` → Add what user really cares about
 
 6. Generate documents with populated responses
 
-7. Show user: "Here's your goals for FY26."
+7. Show user: "Here's your goals for [This Year]."
 
 8. Ask: "Want to edit anything?"
    - Apply edits if requested
@@ -362,7 +362,7 @@ These workflows conduct structured interviews, capture responses, and synthesize
 10. Execute cascading updates:
     - Update memory.md
 
-11. Confirm: "Goals set for FY26. Quarterly focus set for Q1. Ready to start using the system."
+11. Confirm: "Goals set for [This Year]. Quarterly focus set for Q1. Ready to start using the system."
 
 ---
 
@@ -570,13 +570,13 @@ These workflows read files and generate outputs (no user input capture, just gen
 1. Read source files:
    - `capture/work_log.md` (Jan-June entries)
    - `capture/wins_ledger.md` (all entries Jan-June)
-   - `goals/annual_goals_FY26.md` (reference targets)
+   - `goals/annual_goals.md` (reference targets)
    - `capture/feedback_log.md` (all entries Jan-June)
    - `goals/tracking.md` (if exists, check progress)
 
 2. Generate `reviews/mid_year_review.md`:
 ```
-# Mid-Year Review - FY26
+# Mid-Year Review - [This Year]
 
 ## Overall Summary
 [2-3 paragraph narrative of first half]
@@ -625,18 +625,18 @@ These workflows read files and generate outputs (no user input capture, just gen
    - Entire `capture/work_log.md` (all months)
    - Entire `capture/wins_ledger.md`
    - Entire `capture/feedback_log.md`
-   - `goals/annual_goals_FY26.md` (reference)
+   - `goals/annual_goals.md` (reference)
    - `reviews/mid_year_review.md` (if exists, for continuity)
 
 3. Generate `reviews/year_end_review.md`:
 ```
-# Year-End Review - FY26
+# Year-End Review - [This Year]
 
 ## Executive Summary
 [1-2 paragraph year overview]
 
 ## Goals & Progress
-[FY26 goals vs actual achievement]
+[[This Year] goals vs actual achievement]
 
 ## Key Wins
 [major accomplishments from wins_ledger]
@@ -657,7 +657,7 @@ These workflows read files and generate outputs (no user input capture, just gen
 [development areas from feedback + self-reflection]
 
 ## Next Year Focus
-[recommendations for FY27]
+[recommendations for [Next Year]]
 ```
 
 4. Show user: "Here's your year-end review based on your full year of logs."
@@ -686,12 +686,12 @@ These workflows analyze existing data and surface insights.
 **Execution:**
 
 1. Read source files:
-   - `foundation/career_intent_FY26.md` (stated intent)
+   - `foundation/career_intent.md` (stated intent)
    - `foundation/values_and_constraints.md` (stated constraints)
    - `capture/work_log.md` (past 3 months)
    - `capture/decision_log.md` (past 3 months)
    - `capture/energy_log.md` (patterns)
-   - `goals/annual_goals_FY26.md` (declared + shadow)
+   - `goals/annual_goals.md` (declared + shadow)
    - `capture/check_in_log.md` (recent entries for general sense)
 
 2. Analyze misalignments:
@@ -925,7 +925,7 @@ Source: [where it's from]
 → Don't guilt them. Offer: "Want to help you restart? No backfilling needed—just pick up forward."
 
 ### No Data Yet (New User)
-→ Suggest: "Start with career identity interview to set foundation, then goal setting interview for FY26 goals."
+→ Suggest: "Start with career identity interview to set foundation, then goal setting interview for [This Year] goals."
 
 ### Synthesis Finds No Clear Pattern
 → Tell honestly: "Not enough data yet to spot clear patterns. Come back after a few more entries."

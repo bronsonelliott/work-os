@@ -14,9 +14,9 @@ A 10-minute automated analysis that compares your **stated intent** (what you sa
 ## What This Does
 
 Claude automatically reads:
-1. `foundation/career_intent_FY26.md` - Your stated career direction
+1. `foundation/career_intent.md` - Your stated career direction
 2. `foundation/values_and_constraints.md` - Your stated constraints
-3. `goals/annual_goals_FY26.md` - Your declared goals and shadow goals
+3. `goals/annual_goals.md` - Your declared goals and shadow goals
 4. `capture/work_log.md` - Your actual work (last 3 months)
 5. `capture/decision_log.md` - Your actual decisions
 
@@ -47,7 +47,7 @@ Claude generates a drift analysis showing:
 ## Intent vs Reality
 
 **Your Stated Intent:**
-[from career_intent_FY26.md]
+[from career_intent.md]
 
 **Your Actual Work (Last 3 Months):**
 [synthesized from work_log.md]
@@ -114,9 +114,9 @@ After seeing the analysis, you choose:
 
 ### 1. Update Intent (Reality is right, intent is stale)
 Claude helps you update:
-- `foundation/career_intent_FY26.md`
+- `foundation/career_intent.md`
 - `foundation/values_and_constraints.md`
-- `goals/annual_goals_FY26.md`
+- `goals/annual_goals.md`
 
 **When to choose:** Your work is pulling you in a new direction that feels right. Update your intent to match.
 
@@ -141,10 +141,10 @@ Claude logs this as a conscious exception in `capture/decision_log.md`:
 
 - **NEVER judge drift as good/bad** - It's just data
 - Pull work_log data from last 3 months (or specify different range)
-- If foundation docs don't exist, tell user: "Can't run drift analysis without foundation. Want to run /career-identity first?"
+- If foundation docs don't exist, tell user: "Can't run drift analysis without foundation. Want to run the career identity interview first?"
 - Show analysis in full before offering the three options
 - Don't assume which option is right - let user choose
-- Save analysis to `analysis/drift_analysis_[date].md` for historical tracking
+- Save analysis to `synthesis/drift_analysis_[date].md` for historical tracking
 
 ## Tone
 

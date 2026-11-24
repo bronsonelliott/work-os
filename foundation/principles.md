@@ -91,7 +91,7 @@ New capabilities I want to build:
 ## Related Documents
 
 - `foundation/values_and_constraints.md` - My non-negotiables
-- `foundation/career_intent_FY26.md` - What I'm optimizing for
+- `foundation/career_intent.md` - What I'm optimizing for
 - `memory.md` - How these principles show up in practice
 
 ---

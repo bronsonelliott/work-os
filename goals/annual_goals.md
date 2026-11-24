@@ -1,4 +1,4 @@
-# Annual Goals - FY26
+# Annual Goals - [This Year]
 
 *Last updated: [Auto-populated from goal_setting_interview]*
 *Sources: Goal-Setting Interview, Career Intent*
@@ -49,6 +49,6 @@ What you're willing to trade:
 
 ## Related Documents
 
-- `foundation/career_intent_FY26.md` - Why these goals matter
+- `foundation/career_intent.md` - Why these goals matter
 - `goals/quarterly_focus.md` - Q1 priorities (derived from annual goals)
 - `goals/tracking.md` - Progress tracking

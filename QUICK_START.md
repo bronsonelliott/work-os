@@ -37,7 +37,7 @@ Claude will ask you ~10 questions about:
 
 Answer honestly. Claude will populate your annual goals + quarterly focus.
 
-**Expected output:** FY26 goals (declared + shadow) + Q1 focus
+**Expected output:** [This Year] goals (declared + shadow) + Q1 focus
 
 ---
 

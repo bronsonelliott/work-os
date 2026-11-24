@@ -2,7 +2,7 @@
 
 *Auto-updated from monthly logs and reviews*
 
-## FY26 Annual Goals Progress
+## [This Year] Annual Goals Progress
 
 **Goal 1: [Goal Name]**
 - Q1 Progress: [% or status]

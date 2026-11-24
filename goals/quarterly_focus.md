@@ -1,4 +1,4 @@
-# Quarterly Focus - FY26 Q[X]
+# Quarterly Focus - [This Year] Q[X]
 
 *Last updated: [From quarterly_reflection_interview or goal_setting_interview]*
 *Current Quarter: Q1 (populates at goal-setting, updates each Q]*
@@ -38,5 +38,5 @@ By end of Q[X], I will have:
 
 ## Related Documents
 
-- `goals/annual_goals_FY26.md` - Annual goals this derives from
+- `goals/annual_goals.md` - Annual goals this derives from
 - `goals/tracking.md` - Progress tracking
